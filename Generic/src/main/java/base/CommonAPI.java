@@ -32,8 +32,8 @@ public class CommonAPI {
     @Parameters ({"useSauceLabs","userName", "key","os","browserName","browserVersion","url"})
     @BeforeMethod
     public void setUp(@Optional("false")boolean useSauceLabs,@Optional("")String userName,
-                      @Optional("ssk")String key, @Optional("mac")String os,@Optional("chrome") String browserName,
-                      @Optional("35")String browserVersion,@Optional("http://piit.us") String url)throws IOException{
+                      @Optional("ssk")String key, @Optional("windows")String os,@Optional("chrome") String browserName,
+                      @Optional("77.0.3865.90")String browserVersion,@Optional("https://www.ebay.com/") String url)throws IOException{
         if(useSauceLabs == true){
             setUpCloudEnvironment(userName,key,os,browserName,browserVersion,url);
         }else{
@@ -51,29 +51,29 @@ public class CommonAPI {
         cap.setCapability("platform", os);
         this.driver = new RemoteWebDriver(new URL("http://"+userName +":"+ key + "@ondemand.saucelabs.com:80/wd/hub"), cap);
         driver.navigate().to(url);
-        driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
         driver.manage().window().maximize();
     }
     public void getLocalDriver(String os, String browserName, String browserVersion, String url){
         if (os.equalsIgnoreCase("windows")) {
             if(browserName.equalsIgnoreCase("firefox")){
-                System.setProperty("webdriver.gecko.driver", "../generic/driver/geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "../Generic/Driver/geckodriver.exe");
                 driver = new FirefoxDriver();
             } else if(browserName.equalsIgnoreCase("chrome")){
-                System.setProperty("webdriver.chrome.driver", "../generic/driver/chromedriver.exe");
+                System.setProperty("webdriver.chrome.driver", "../Generic/Driver/chromedriver.exe");
                 driver = new ChromeDriver();
             }
         } else if (os.equalsIgnoreCase("mac")) {
             if(browserName.equalsIgnoreCase("firefox")){
-                System.setProperty("webdriver.gecko.driver", "../generic/driver/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "../Generic/Driver/geckodriver");
                 driver = new FirefoxDriver();
             } else if(browserName.equalsIgnoreCase("chrome")){
-                System.setProperty("webdriver.chrome.driver", "../generic/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "../Generic/Driver/chromedriver");
                 driver = new ChromeDriver();
             }
         }
         driver.navigate().to(url);
-        driver.manage().timeouts().implicitlyWait(20,TimeUnit.SECONDS);
+        driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
         driver.manage().window().maximize();
     }
 
