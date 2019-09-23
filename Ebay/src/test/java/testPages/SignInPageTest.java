@@ -20,6 +20,10 @@ public class SignInPageTest extends CommonAPI {
     String errorMessage=driver.findElement(By.xpath("//div[@class='signin-view-container']//span[@class='inline-notice__content']")).getText();
     Assert.assertEquals(errorMessage,"Oops, that's not a match.");
     }
+    @Test
+    public void createAccount(){
+
+    }
 
 
 

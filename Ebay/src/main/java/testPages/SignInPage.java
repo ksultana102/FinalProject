@@ -16,6 +16,9 @@ public class SignInPage extends CommonAPI {
     WebElement password;
     @FindBy(xpath = "//button[@id='sgnBt']")
     WebElement login;
+    @FindBy(css="#InLineCreateAnAccount")
+    WebElement createAccount;
+
     public  void invalidSignIn() {
         signInButton.click();
         userName.sendKeys("ksultana102@gmail.com");
@@ -26,9 +29,11 @@ public class SignInPage extends CommonAPI {
         this.driver=driver;
         PageFactory.initElements(driver,this);
     }
-
-
-
+    public AccountPage goToAccountPage(){
+        signInButton.click();
+        createAccount.click();
+        return new AccountPage(driver);
+    }
 
 
 
