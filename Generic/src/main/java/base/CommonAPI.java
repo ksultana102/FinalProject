@@ -33,7 +33,7 @@ public class CommonAPI {
     @BeforeMethod
     public void setUp(@Optional("false")boolean useSauceLabs,@Optional("")String userName,
                       @Optional("ssk")String key, @Optional("windows")String os,@Optional("chrome") String browserName,
-                      @Optional("77.0.3865.90")String browserVersion,@Optional("https://www.facebook.com/") String url)throws IOException{
+                      @Optional("77.0.3865.90")String browserVersion,@Optional("https://www.ebay.com/") String url)throws IOException{
         if(useSauceLabs == true){
             setUpCloudEnvironment(userName,key,os,browserName,browserVersion,url);
         }else{
@@ -79,10 +79,10 @@ public class CommonAPI {
 
     @AfterMethod
     public void cleanUp(){
-        //driver.quit();
+        driver.quit();
     }
 
-//Utilities Methods
+    //Utilities Methods
 
     public void clickByCss(String locator){
         driver.findElement(By.cssSelector(locator)).click();
@@ -146,6 +146,7 @@ public class CommonAPI {
         WebElement element = driver.findElement(By.cssSelector(locator));
         Actions action = new Actions(driver);
         Actions hover = action.moveToElement(element);
+        hover.build().perform();
     }
 
     public void selectElementByVisibleText(String locator, String value){
@@ -192,28 +193,3 @@ public class CommonAPI {
     }
 
 }
-
-//import org.openqa.selenium.WebDriver;
-//import org.openqa.selenium.chrome.ChromeDriver;
-//import org.testng.annotations.AfterMethod;
-//import org.testng.annotations.BeforeMethod;
-//import org.testng.annotations.Parameters;
-//
-//import java.util.concurrent.TimeUnit;
-//
-//public class CommonAPI {
-//    public WebDriver driver = null;
-//    @Parameters({"url"})
-//    @BeforeMethod
-//    public void SetUp(String url){
-//        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Omar Al-Faruque\\IdeaProjects\\FrameWorkSelenium092119\\Generic\\Driver\\chromedriver.exe");
-//        driver = new ChromeDriver();
-//        driver.manage().timeouts().implicitlyWait(50, TimeUnit.SECONDS);
-//        driver.get(url);
-//    }
-//    @AfterMethod
-//    public void CleanUp(){
-//        driver.close();
-//    }
-
-
