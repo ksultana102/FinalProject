@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ce371d-2db9-42f5-94b4-45a615c205a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/SignInPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/SignInPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testPages/SignInPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/testPages/SignInPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/SignInPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/SignInPageTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +36,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/YouTube/src/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />

@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="YouTube" />
         <module name="CitiBank" />
-        <module name="Generic" />
         <module name="Ebay" />
         <module name="FaceBook" />
-        <module name="YouTube" />
+        <module name="Generic" />
         <module name="MetLife" />
         <module name="CNN" />
       </profile>
