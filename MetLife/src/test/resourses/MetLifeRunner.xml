@@ -7,13 +7,13 @@
     <parameter name="cloudEnvName" value="browserstack"/>
     <parameter name="os" value="windows"/>
     <parameter name="os_version" value="10"/>
-    <parameter name="browserName" value="chrome"/>"
+    <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="77.0.3865.90"/>
     <parameter name="url" value="https://www.ebay.com"/>
 
     <test name = "SignIn Test">
         <classes>
-            <class name="testPages.test"/>
+            <!-- <class name="testPages.SignInPageTest"/>-->
             <!-- <class name="testPages.HomePageTest"/>-->
             <!--<class name="testXlSheet.TestHomePageMyMtaAlert"/>
             <class name="serviceStatusHomePage.TestPlannedService"/>
