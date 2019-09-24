@@ -8,10 +8,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="YouTube" />
         <module name="CitiBank" />
-        <module name="MetLife" />
         <module name="Ebay" />
         <module name="FaceBook" />
         <module name="Generic" />
+        <module name="MetLife" />
         <module name="CNN" />
       </profile>
     </annotationProcessing>
