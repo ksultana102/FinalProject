@@ -2,13 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12ce371d-2db9-42f5-94b4-45a615c205a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_apache_poi_poi_ooxml_4_1_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/CNN-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBank/target/CitiBank-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBank/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/AccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testPages/HomePageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/SignInPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testPages/SignInPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/Ebay-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/testPages/HomePage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/testPages/SignInPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/AccountPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/AccountPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/HomePageTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/SignInPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/SignInPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/FaceBook-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/MetLife-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/target/YouTube-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/YouTube/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,9 +77,13 @@
   <component name="ProjectId" id="1RCwgKYm0Em6tbihBaBe2RuCubN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/Driver" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -66,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.AccountPageTest.createAccountTest">
+  <component name="RunManager" selected="TestNG.D:/FinalFrameWorkTeam3/Ebay/src/test/resources/EbayRunner.xml">
     <configuration name="AccountPageTest.createAccountTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
@@ -85,24 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountPageTest.titleIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Ebay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testPages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.AccountPageTest" />
-      <option name="METHOD_NAME" value="titleIsDisplayed" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="D:/FinalFrameWorkTeam3/Ebay/src/test/resources/EbayRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" />
@@ -113,7 +137,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignInPageTest.testInvalidSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="HomePageTest.testPartsAndAccessories" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPages" />
+      <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
+      <option name="METHOD_NAME" value="testPartsAndAccessories" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignInPageTest.testCreateAccount" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
         <pattern>
@@ -123,7 +165,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="testPages" />
       <option name="MAIN_CLASS_NAME" value="testPages.SignInPageTest" />
-      <option name="METHOD_NAME" value="testInvalidSignIn" />
+      <option name="METHOD_NAME" value="testCreateAccount" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -131,10 +173,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SignInPageTest.testPositiveSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPages" />
+      <option name="MAIN_CLASS_NAME" value="testPages.SignInPageTest" />
+      <option name="METHOD_NAME" value="testPositiveSignIn" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -143,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AccountPageTest.createAccountTest" />
-        <item itemvalue="TestNG.AccountPageTest.titleIsDisplayed" />
-        <item itemvalue="TestNG.SignInPageTest.testInvalidSignIn" />
         <item itemvalue="TestNG.D:/FinalFrameWorkTeam3/Ebay/src/test/resources/EbayRunner.xml" />
-        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.HomePageTest.testPartsAndAccessories" />
+        <item itemvalue="TestNG.SignInPageTest.testCreateAccount" />
+        <item itemvalue="TestNG.SignInPageTest.testPositiveSignIn" />
+        <item itemvalue="TestNG.AccountPageTest.createAccountTest" />
       </list>
     </recent_temporary>
   </component>

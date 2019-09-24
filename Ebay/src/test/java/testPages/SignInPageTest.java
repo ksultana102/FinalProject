@@ -21,11 +21,15 @@ public class SignInPageTest extends CommonAPI {
     Assert.assertEquals(errorMessage,"Oops, that's not a match.");
     }
     @Test
-    public void createAccount(){
+    public void testCreateAccount(){
+        signIn.goToAccountPage();
 
     }
 
-
+@Test
+    public void testPositiveSignIn(){
+        signIn.positiveSignIn();
+}
 
 
 
