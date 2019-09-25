@@ -6,18 +6,18 @@
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
     <parameter name="os" value="mac"/>
-    <parameter name="os_version" value="10.14.6"/>
+    <parameter name="os_version" value="10"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="77.0.3865.90"/>
     <parameter name="url" value="https://www.MetLife.com"/>
 
-    <test name = "testPages">
+    <test name = "test">
         <classes>
-            <class name="testPages.test"/>
-            <class name="testPages.VerifyPageTitleTest"/>
-            <class name="testPages.VerfyMetLifeLogo"/>
-<!--            <class name="serviceStatusHomePage.TestPlannedService"/>-->
-<!--            <class name="serviceStatusHomePage.TestTripPlanner"/>&ndash;&gt;-->
+             <class name="testPages.VerfyMetLifeLogo"/>
+            <!-- <class name="testPages.HomePageTest"/>-->
+            <!--<class name="testXlSheet.TestHomePageMyMtaAlert"/>
+            <class name="serviceStatusHomePage.TestPlannedService"/>
+            <class name="serviceStatusHomePage.TestTripPlanner"/>-->
 
         </classes>
 

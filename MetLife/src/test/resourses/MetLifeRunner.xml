@@ -2,18 +2,18 @@
 
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Ebay API Automation Script " parallel="false">
+<suite name="MetLife API Automation Script " parallel="false">
     <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
-    <parameter name="os" value="windows"/>
+    <parameter name="os" value="mac"/>
     <parameter name="os_version" value="10"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="77.0.3865.90"/>
-    <parameter name="url" value="https://www.ebay.com"/>
+    <parameter name="url" value="https://www.MetLife.com"/>
 
-    <test name = "SignIn Test">
+    <test name = "test">
         <classes>
-            <!-- <class name="testPages.SignInPageTest"/>-->
+             <class name="testPages.VerfyMetLifeLogo"/>
             <!-- <class name="testPages.HomePageTest"/>-->
             <!--<class name="testXlSheet.TestHomePageMyMtaAlert"/>
             <class name="serviceStatusHomePage.TestPlannedService"/>

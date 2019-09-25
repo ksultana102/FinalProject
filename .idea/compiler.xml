@@ -6,14 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="YouTube" />
         <module name="CitiBank" />
-        <module name="Generic" />
+        <module name="MetLife" />
         <module name="Ebay" />
         <module name="FaceBook" />
-        <module name="YouTube" />
-        <module name="MetLife" />
+        <module name="Generic" />
         <module name="CNN" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CitiBank" target="1.8" />
+      <module name="CNN" target="1.8" />
+      <module name="Ebay" target="1.8" />
+      <module name="FaceBook" target="1.8" />
+      <module name="FinalFrameWorkTeam3" target="1.8" />
+      <module name="Generic" target="1.8" />
+      <module name="MetLife" target="1.8" />
+      <module name="YouTube" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

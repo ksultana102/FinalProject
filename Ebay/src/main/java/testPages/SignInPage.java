@@ -21,7 +21,7 @@ public class SignInPage extends CommonAPI {
 
     public  void invalidSignIn() {
         signInButton.click();
-        userName.sendKeys("ksultana102@gmail.com");
+        userName.sendKeys("kisuar.sultana96@qmail.cuny.edu");
         password.sendKeys("samia");
         login.click();
     }
@@ -35,7 +35,18 @@ public class SignInPage extends CommonAPI {
         return new AccountPage(driver);
     }
 
+public void positiveSignIn(){
+    signInButton.click();
+    userName.sendKeys("kisuar.sultana96@qmail.cuny.edu");
+    password.sendKeys("Kisuar1234@");
 
+    }
+    public void positiveSignInFromExcel(String Userame,String Password){
+        signInButton.click();
+        userName.sendKeys(Userame);
+        password.sendKeys(Password);
+
+    }
 
 
 }

@@ -146,6 +146,7 @@ public class CommonAPI {
         WebElement element = driver.findElement(By.cssSelector(locator));
         Actions action = new Actions(driver);
         Actions hover = action.moveToElement(element);
+        hover.build().perform();
     }
 
     public void selectElementByVisibleText(String locator, String value){
