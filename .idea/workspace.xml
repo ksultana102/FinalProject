@@ -181,4 +181,7 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Final_Project_FrameWork$D__FinalFrameWorkTeam3_Ebay_src_test_resources_EbayRunner_xml.ic" NAME="D:/FinalFrameWorkTeam3/Ebay/src/test/resources/EbayRunner.xml Coverage Results" MODIFIED="1569335674488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
 </project>
