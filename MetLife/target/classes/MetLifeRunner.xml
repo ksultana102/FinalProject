@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MetLife API Automation Script " parallel="false">
+    <parameter name="useCloudEnv" value="false"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="mac"/>
+    <parameter name="os_version" value="10.14.6"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="77.0.3865.90"/>
+    <parameter name="url" value="https://www.MetLife.com"/>
+
+    <test name = "testPages">
+        <classes>
+            <class name="testPages.test"/>
+            <class name="testPages.VerifyPageTitleTest"/>
+            <class name="testPages.VerfyMetLifeLogo"/>
+<!--            <class name="serviceStatusHomePage.TestPlannedService"/>-->
+<!--            <class name="serviceStatusHomePage.TestTripPlanner"/>&ndash;&gt;-->
+
+        </classes>
+
+    </test>
+
+
+
+</suite>
