@@ -41,6 +41,12 @@ public void positiveSignIn(){
     password.sendKeys("Kisuar1234@");
 
     }
+    public void positiveSignInFromExcel(String Userame,String Password){
+        signInButton.click();
+        userName.sendKeys(Userame);
+        password.sendKeys(Password);
+
+    }
 
 
 }
