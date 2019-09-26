@@ -25,7 +25,4 @@ public class AccountPageTest extends CommonAPI {
         account.createAccount();
         account.titleIsDisplayed();
     }
-
-
-
 }

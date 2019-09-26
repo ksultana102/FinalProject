@@ -37,8 +37,8 @@ public class SignInPage extends CommonAPI {
 
 public void positiveSignIn(){
     signInButton.click();
-    userName.sendKeys("kisuar.sultana96@qmail.cuny.edu");
-    password.sendKeys("Kisuar1234@");
+    userName.sendKeys("ksultana102@gmail.com");
+    password.sendKeys("Dmlnsr007");
 
     }
     public void positiveSignInFromExcel(String Userame,String Password){

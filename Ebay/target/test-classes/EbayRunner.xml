@@ -20,11 +20,6 @@
             <!--<class name="testXlSheet.TestHomePageMyMtaAlert"/>
             <class name="serviceStatusHomePage.TestPlannedService"/>
             <class name="serviceStatusHomePage.TestTripPlanner"/>-->
-
         </classes>
-
     </test>
-
-
-
 </suite>

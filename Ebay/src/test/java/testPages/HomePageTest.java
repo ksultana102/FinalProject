@@ -27,6 +27,11 @@ public class HomePageTest extends CommonAPI {
     public void testPartsAndAccessories() throws InterruptedException {
         home.getMotorsOptionsPartsAndAccessories();
     }
+    @Test
+    public void testFashion() throws InterruptedException {
+        home.getFashionTopCategories();
+    }
+
 
 
 }
