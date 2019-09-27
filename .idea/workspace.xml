@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9b7064b-3393-466e-a261-847c46265a1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN/CNN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/CNN.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CitiBank/CitiBank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBank/CitiBank.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/Ebay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/Ebay.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/AccountPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/SignInPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/AccountPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testPages/AccountPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testPages/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/SignInPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testPages/SignInPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/AccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/testPages/AccountPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/testPages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/testPages/SignInPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/HomePageTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceBook/FaceBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/FaceBook.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MetLife/MetLife.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/MetLife.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/YouTube/YouTube.iml" beforeDir="false" afterPath="$PROJECT_DIR$/YouTube/YouTube.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +40,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MotorsPageTest.testMotorPageTitleIsDisplayed">
-    <configuration name="AccountPageTest.createAccountTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Ebay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testPages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.AccountPageTest" />
-      <option name="METHOD_NAME" value="createAccountTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomePageTest.testFashion" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.HomePageTest.testNotification">
+    <configuration name="HomePageTest.testNotification" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
         <pattern>
@@ -87,7 +51,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="testPages" />
       <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
-      <option name="METHOD_NAME" value="testFashion" />
+      <option name="METHOD_NAME" value="testNotification" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,6 +70,24 @@
       <option name="PACKAGE_NAME" value="testPages" />
       <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
       <option name="METHOD_NAME" value="testPartsAndAccessories" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTest.testShopByCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Ebay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPages" />
+      <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
+      <option name="METHOD_NAME" value="testShopByCategory" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -151,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.HomePageTest.testNotification" />
+        <item itemvalue="TestNG.HomePageTest.testShopByCategory" />
         <item itemvalue="TestNG.MotorsPageTest.testMotorPageTitleIsDisplayed" />
         <item itemvalue="TestNG.MotorsPageTest.testFindParts" />
         <item itemvalue="TestNG.HomePageTest.testPartsAndAccessories" />
-        <item itemvalue="TestNG.HomePageTest.testFashion" />
-        <item itemvalue="TestNG.AccountPageTest.createAccountTest" />
       </list>
     </recent_temporary>
   </component>

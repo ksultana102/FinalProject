@@ -22,11 +22,21 @@ public class HomePage extends CommonAPI {
     WebElement shoppingCart;
     @FindBy(xpath ="//a[contains(text(),'Start shopping')]")
     WebElement startShopping;
+    @FindBy(id ="gh-shop-ei")
+    WebElement shopByCategory;
+    @FindBy(id="gh-Alerts-i")
+    WebElement notification;
     public void searchItems() {
         Actions ac = new Actions(driver);
         ac.moveToElement(searchBox).click().build().perform();
         ac.moveToElement(searchBox).sendKeys("pencil").build().perform();
         searchButton.click();
+    }
+    public void notificaton(){
+        notification.click();
+    }
+    public void shopByCategory(){
+        shopByCategory.click();
     }
     public void mouseOverElement() throws InterruptedException {
         mouseHover("//body[@class='desktop gh-flex']/div[@id='mainContent']/div[@class='hl-cat-nav']/ul[@class='hl-cat-nav__container']/li[3]/a[1]");

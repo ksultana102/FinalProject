@@ -31,7 +31,12 @@ public class HomePageTest extends CommonAPI {
     public void testFashion() throws InterruptedException {
         home.getFashionTopCategories();
     }
-
-
-
+@Test
+    public void testShopByCategory(){
+        home.shopByCategory();
+}
+@Test
+    public void testNotification(){
+        home.notificaton();
+}
 }
