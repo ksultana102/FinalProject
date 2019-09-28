@@ -143,17 +143,34 @@ public class CommonAPI {
         Thread.sleep(sec * 1000);
     }
     public void mouseHover(String locator){
-        WebElement element = driver.findElement(By.cssSelector(locator));
+        WebElement element = driver.findElement(By.xpath(locator));
         Actions action = new Actions(driver);
         Actions hover = action.moveToElement(element);
         hover.build().perform();
     }
+    public void mouseHoverClickWebElement(String locator){
+        WebElement element = driver.findElement(By.xpath(locator));
+        Actions action = new Actions(driver);
+        Actions hover = action.moveToElement(element);
+        hover.click().build().perform();
+    }
 
     public void selectElementByVisibleText(String locator, String value){
-        WebElement element = driver.findElement(By.cssSelector(locator));
+        WebElement element = driver.findElement(By.xpath(locator));
         Select select = new Select(element);
         select.selectByVisibleText(value);
     }
+    public void selectElementByValue(WebElement element, String value){
+        //WebElement element = driver.findElement(By.xpath(locator));
+        Select select = new Select(element);
+        select.selectByValue(value);
+    }
+    public void selectElementByText(WebElement element, String value){
+        //WebElement element = driver.findElement(By.xpath(locator));
+        Select select = new Select(element);
+        select.selectByVisibleText(value);
+    }
+
     public void okAlert(){
         Alert alert = driver.switchTo().alert();
         alert.accept();

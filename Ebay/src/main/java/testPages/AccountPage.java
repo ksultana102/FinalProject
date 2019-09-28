@@ -26,8 +26,8 @@ public class AccountPage extends CommonAPI {
     public void createAccount(){
         firstName.sendKeys("Kisuar");
         lastName.sendKeys("Sultana");
-        email.sendKeys("kisuar.sultana96@qmail.cuny.edu");
-        passWord.sendKeys("Kisuar1234@");
+        email.sendKeys("ksultana102@gmail.com");
+        passWord.sendKeys("Dmlnsr007");
         createAccountButton.click();
     }
     public boolean titleIsDisplayed(){

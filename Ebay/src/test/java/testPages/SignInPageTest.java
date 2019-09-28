@@ -44,10 +44,4 @@ public Object[][] supplyData() throws IOException {
     public void signInFromExcelTest(String Username,String Password){
         signIn.positiveSignInFromExcel(Username, Password);
 }
-
-
-
-
-
-
 }
