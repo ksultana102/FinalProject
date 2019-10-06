@@ -13,10 +13,13 @@
 
     <test name = "SignIn Test">
         <classes>
-            <class name="testPages.SignInPageTest"/>
-           <class name="testPages.HomePageTest"/>
-            <class name="testPages.AccountPageTest"/>
-
+            <class name="Pages.SignInPageTest"/>
+           <class name="Pages.HomePageTest"/>
+            <class name="Pages.AccountPageTest"/>
+            <class name="Pages.MotorsPageTest"/>
+            <class name="Pages.CollectiblesAndArtPageTest"/>
+            <class name="Pages.DealsPageTest"/>
+            <class name="Pages.DataSourceTest"/>
             <!--<class name="testXlSheet.TestHomePageMyMtaAlert"/>
             <class name="serviceStatusHomePage.TestPlannedService"/>
             <class name="serviceStatusHomePage.TestTripPlanner"/>-->

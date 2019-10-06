@@ -1,12 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9b7064b-3393-466e-a261-847c46265a1e" name="Default Changelist" comment="">
+    <list default="true" id="4dfac4c4-02e5-46ac-8457-783017162dcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_6_0_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/main/java/Pages/MotosPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/Pages/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/Pages/MotorsPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ebay/src/test/java/Pages/SignInPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YouTube/src/main/java/Pages/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YouTube/src/test/java/Pages/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/testPages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/testPages/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/testPages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/HomePageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/CNN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/CNN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNN/src/test/java/testPages/testClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/CNN/src/test/java/Pages/testClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBank/CitiBank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBank/CitiBank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CitiBank/src/main/java/testPages/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/CitiBank/src/main/java/Pages/TestClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/Ebay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/Ebay.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/AccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/Pages/AccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/HomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/MotosPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/testPages/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/Pages/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/main/java/utilities/Xl_Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/main/java/utilities/Xl_Reader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/AccountPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/java/Pages/AccountPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/HomePageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/MotorsPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/java/testPages/SignInPageTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/src/test/resources/userName_password.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/src/test/resources/userName_password.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/META-INF/Ebay.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/AccountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/MotosPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/testPages/SignInPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/classes/utilities/Xl_Reader.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/classes/utilities/Xl_Reader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/EbayRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/AccountPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/HomePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/MotorsPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/testPages/SignInPageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ebay/target/test-classes/userName_password.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Ebay/target/test-classes/userName_password.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/FaceBook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/FaceBook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/src/main/java/testPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/src/main/java/testPages/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/main/java/Pages/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/src/test/java/testPages/FaceBookLogIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/src/test/java/Pages/FaceBookLogIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/src/test/java/testPages/FaceBookLogOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/src/test/java/Pages/FaceBookLogOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/src/test/java/testPages/SignInFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/src/test/java/Pages/SignInFacebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/src/test/java/testPages/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/java/Pages/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/classes/testPages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/classes/testPages/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/test-classes/FaceBookRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/test-classes/META-INF/FaceBook.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/test-classes/testPages/SignInFacebook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceBook/target/test-classes/testPages/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/Generic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/Generic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/MetLife.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/MetLife.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/main/java/testPages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/main/java/testPages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/main/java/Pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/main/java/testPages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/main/java/Pages/SearchResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/main/java/testPages/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/src/main/java/Pages/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/java/testPages/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/java/Pages/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/java/testPages/InvalidCredentialLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/java/Pages/InvalidCredentialLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/java/testPages/SearchResultPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/java/Pages/SearchResultPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/java/testPages/VerfyMetLifeLogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/java/Pages/VerfyMetLifeLogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/java/testPages/VerifyPageTitleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/java/Pages/VerifyPageTitleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/java/testPages/loginoptionClickable.java" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/java/Pages/loginoptionClickable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/java/testPages/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/FaceBook/src/test/java/Pages/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/src/test/resourses/MetLifeRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MetLife/src/test/resourses/MetLifeRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/classes/META-INF/MetLife.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/classes/MetLifeRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/classes/testPages/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/classes/testPages/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/classes/testPages/SearchResultPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/classes/testPages/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/test-classes/META-INF/MetLife.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/test-classes/testPages/HomePageTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/test-classes/testPages/InvalidCredentialLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/test-classes/testPages/VerfyMetLifeLogo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/test-classes/testPages/VerifyPageTitleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/test-classes/testPages/loginoptionClickable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MetLife/target/test-classes/testPages/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/YouTube.iml" beforeDir="false" afterPath="$PROJECT_DIR$/YouTube/YouTube.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/src/main/java/testPages/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/src/test/java/testPages/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/YouTube/src/test/resources/Youtube.xml" beforeDir="false" afterPath="$PROJECT_DIR$/YouTube/src/test/resources/Youtube.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +119,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-<<<<<<< HEAD
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -29,11 +129,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1RKmtp1To52AKrunrUQnWLqsESd" />
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RT04y7cZg8KG6ZpwuBZmGPv25j" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ebay/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
->>>>>>> 32aaaf7f930d4c1a6943f82e2853392b7b97abae
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Final_Project_FrameWork\Generic\src" />
+      <recent name="D:\Final_Project_FrameWork\Ebay\src\test\resources" />
+      <recent name="D:\Final_Project_FrameWork\Ebay\src" />
+      <recent name="D:\Final_Project_FrameWork\Ebay" />
+      <recent name="D:\Final_Project_FrameWork\Ebay\src\main\java\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Final_Project_FrameWork\Ebay\src\test\resources" />
+      <recent name="D:\Final_Project_FrameWork\Generic\src\main\java" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -46,18 +170,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTest.testNotification">
-    <configuration name="HomePageTest.testNotification" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.KeywordTest.testKeyword">
+    <configuration name="CollectiblesAndArtPageTest.testAntiques" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testPages.*" />
+          <option name="PATTERN" value="Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
-      <option name="METHOD_NAME" value="testNotification" />
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.CollectiblesAndArtPageTest" />
+      <option name="METHOD_NAME" value="testAntiques" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -65,17 +189,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageTest.testPartsAndAccessories" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectiblesAndArtPageTest.testEntertainment" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testPages.*" />
+          <option name="PATTERN" value="Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
-      <option name="METHOD_NAME" value="testPartsAndAccessories" />
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.CollectiblesAndArtPageTest" />
+      <option name="METHOD_NAME" value="testEntertainment" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -83,17 +207,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomePageTest.testShopByCategory" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CollectiblesAndArtPageTest.testSportsMemorabilla" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testPages.*" />
+          <option name="PATTERN" value="Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.HomePageTest" />
-      <option name="METHOD_NAME" value="testShopByCategory" />
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.CollectiblesAndArtPageTest" />
+      <option name="METHOD_NAME" value="testSportsMemorabilla" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -101,35 +225,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorsPageTest.testFindParts" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/Final_Project_FrameWork/Ebay/src/test/resources/EbayRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testPages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.MotorsPageTest" />
-      <option name="METHOD_NAME" value="testFindParts" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Ebay/src/test/resources/EbayRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MotorsPageTest.testMotorPageTitleIsDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeywordTest.testKeyword" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Ebay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testPages.*" />
+          <option name="PATTERN" value="Pages.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testPages" />
-      <option name="MAIN_CLASS_NAME" value="testPages.MotorsPageTest" />
-      <option name="METHOD_NAME" value="testMotorPageTitleIsDisplayed" />
+      <option name="PACKAGE_NAME" value="Pages" />
+      <option name="MAIN_CLASS_NAME" value="Pages.KeywordTest" />
+      <option name="METHOD_NAME" value="testKeyword" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomePageTest.testNotification" />
-        <item itemvalue="TestNG.HomePageTest.testShopByCategory" />
-        <item itemvalue="TestNG.MotorsPageTest.testMotorPageTitleIsDisplayed" />
-        <item itemvalue="TestNG.MotorsPageTest.testFindParts" />
-        <item itemvalue="TestNG.HomePageTest.testPartsAndAccessories" />
+        <item itemvalue="TestNG.KeywordTest.testKeyword" />
+        <item itemvalue="TestNG.D:/Final_Project_FrameWork/Ebay/src/test/resources/EbayRunner.xml" />
+        <item itemvalue="TestNG.CollectiblesAndArtPageTest.testEntertainment" />
+        <item itemvalue="TestNG.CollectiblesAndArtPageTest.testAntiques" />
+        <item itemvalue="TestNG.CollectiblesAndArtPageTest.testSportsMemorabilla" />
       </list>
     </recent_temporary>
   </component>
@@ -152,11 +268,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9b7064b-3393-466e-a261-847c46265a1e" name="Default Changelist" comment="" />
-      <created>1569419347533</created>
+      <changelist id="4dfac4c4-02e5-46ac-8457-783017162dcb" name="Default Changelist" comment="" />
+      <created>1569662243775</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569419347533</updated>
+      <updated>1569662243775</updated>
     </task>
     <servers />
   </component>
@@ -172,5 +288,40 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Ebay/src/test/java/Pages/HomePageTest.java</url>
+          <line>100</line>
+          <properties class="Pages.HomePageTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Ebay/src/test/java/Pages/HomePageTest.java</url>
+          <line>14</line>
+          <properties class="Pages.HomePageTest" method="testSearchItem">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Ebay/src/test/java/Pages/HomePageTest.java</url>
+          <line>110</line>
+          <properties class="Pages.HomePageTest" method="getTextFromSlideShowImage">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Ebay/src/test/java/Pages/CollectiblesAndArtPageTest.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
